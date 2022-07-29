@@ -1,0 +1,6 @@
+*.PDF
+.idea/
+venv/
+New folder
+chromedriver.exe
+*.zip
